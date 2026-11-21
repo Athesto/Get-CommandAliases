@@ -9,7 +9,7 @@
 
     # Export settings
     FunctionsToExport = @('Get-CommandAliases')
-    AliasesToExport   = @('gca', 'which')
+    AliasesToExport   = @('gcma', 'which')
 
     # Optional settings
     PrivateData = @{

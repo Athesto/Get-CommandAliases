@@ -46,7 +46,7 @@ Get-CommandAliases curl
 
 ### 🎭 Aliases
 
-`Get-CommandAliases` | `gca` | `which`
+`Get-CommandAliases` | `gcma` | `which`
 
 ---
 

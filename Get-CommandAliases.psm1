@@ -28,7 +28,7 @@ function Get-CommandAliases {
     Author: Gustavo Mejía
     Created: 2025
     #>
-    [Alias("gca", "which")]
+    [Alias("gcma", "which")]
     param(
         [Parameter(Mandatory=$true)]
         [string]$Name
